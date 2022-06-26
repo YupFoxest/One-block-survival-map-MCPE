@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": true,
+      "addon": false,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,28 +35,12 @@
   ],
   "Addon": [
     {
-        "name": "Soul Addon [v1.0.9, 1.17 Support!]",
-        "role": "The Soul Addon is an addon that adds new armor, weapons, tools, bosses, and more to the game, all with special abilities and effects. Such as, the Soul Boss. with 2,000 health, and the Soul Dragon with 5,000. Don't worry though. as the new armor/weapons will get you powerful enough to engage these foes.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/Soul Addon v1.0.9.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/1.png"
-    },
-    {
-        "name": "Turkey Boss",
-        "role": "Hunt Turkey, gather resources, survive, and finally fight the Turkey Boss!! Basically in this mod, you are a pilgrim and you must get your prey, Turkey. This Mod adds 3 new turkeys, 3 new food, 3 new weapons, and 2 new items. Use these resources to your advantage and win the war.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/Turkey_Boss_Mod_Published_21.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/1.png"
-    },
-    {
-        "name": "JourneyCraft Accessories Update",
-        "role": "Bored with vanilla MC? Then this add-on is perfect for you. This addon adds 30+ weapons, 10+ bosses, 25+ materials to be used into your Minecraft! This add-on was inspired by Terraria which explains why there is some Terraria stuff in this addon.",
-        "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/3.png",
-        "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/JourneyCraft Accessories Update MASTERMODE_1592980995048.mcaddon",
-        "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/2.png",
-        "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/1.png"
+      "name": "",
+      "role": "",
+      "image": "",
+      "file_url": "",
+      "imgcoversatu": "",
+      "imgcoverdua": ""
     }
   ],
   "Map": [
